@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First-App-Update/static/css/main.f412b821.chunk.css",
+    "main.js": "/First-App-Update/static/js/main.cab17a06.chunk.js",
+    "main.js.map": "/First-App-Update/static/js/main.cab17a06.chunk.js.map",
+    "runtime~main.js": "/First-App-Update/static/js/runtime~main.99831f6d.js",
+    "runtime~main.js.map": "/First-App-Update/static/js/runtime~main.99831f6d.js.map",
+    "static/js/2.8daacdb3.chunk.js": "/First-App-Update/static/js/2.8daacdb3.chunk.js",
+    "static/js/2.8daacdb3.chunk.js.map": "/First-App-Update/static/js/2.8daacdb3.chunk.js.map",
+    "index.html": "/First-App-Update/index.html",
+    "precache-manifest.c6406b2ec7f950022f59ab3bae877084.js": "/First-App-Update/precache-manifest.c6406b2ec7f950022f59ab3bae877084.js",
+    "service-worker.js": "/First-App-Update/service-worker.js",
+    "static/css/main.f412b821.chunk.css.map": "/First-App-Update/static/css/main.f412b821.chunk.css.map"
+  }
+}
